@@ -6,7 +6,7 @@ Solving problems from [Project Euler](http://projecteuler.net/) using Scheme to 
 Motivation
 ----------
 
-I've already used a (bit of) LISP at my college times, but it was a real lack on my computer science formation.
+I've already used a (bit of) LISP at my college time, but it was a real lack on my computer science formation.
 
 Once I decided to start studding deep some concepts of computability and history of computation, I found myself on a position where learning LISP or some LISP-dialect is useful (to do not say necessary!).
 
